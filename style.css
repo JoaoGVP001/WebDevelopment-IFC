@@ -1,0 +1,357 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.div-primeira {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.div-segunda {
+    background-color: rgb(235, 235, 235);
+    position: static;
+}
+
+.btn-brasil {
+    color: rgb(80, 80, 80);
+    font-size: 20px;
+
+}
+
+.brasilimg {
+    width: 25px;
+    height: 15px;
+}
+
+.btn-covid {
+    color: red;
+    font-size: 20px;
+    background-color: white;
+    margin-left: 80px;
+}
+
+.btn-simplifique {
+    font-size: 20px;
+}
+
+.btn-participe {
+    font-size: 20px;
+}
+
+.btn-acessoinfo {
+    font-size: 20px;
+}
+
+.btn-legislacao {
+    font-size: 20px;
+}
+
+.btn-canais {
+    font-size: 20px;
+}
+
+.div-segunda {
+    margin-top: 20px;
+}
+
+#divBusca {
+    background-color:#9b9b9b;
+    border:solid 1px;
+    width:300px;
+    margin-left: 1700px;
+  }
+  
+  #txtBusca {
+    float:left;
+    background-color:transparent;
+    padding-left:5px;
+    font-size:18px;
+    border:none;
+    height:32px;
+    width:260px;
+  }
+
+.cursostecnicos {
+    width: 486px;
+    height: 310px;
+    margin-left: 1500px;
+    margin-top: 50px; 
+}
+
+.agro {
+    position: absolute;
+    top: 395px;
+    left: 1513px;
+    padding: 10px;
+    text-align: center;
+}
+
+.btn-agro {
+    color: rgb(66, 66, 66);
+    font-size: 18px;
+    border: none;
+    background: none;
+}
+
+.alimentos {
+    position: absolute;
+    top: 425px;
+    left: 1513px;
+    padding: 10px;
+    text-align: center;
+}
+
+.btn-alimentos {
+    color: rgb(66, 66, 66);
+    font-size: 18px;
+    border: none;
+    background: none;
+}
+
+.info {
+    position: absolute;
+    top: 455px;
+    left: 1513px;
+    padding: 10px;
+    text-align: center;
+}
+
+.btn-info {
+    color: rgb(66, 66, 66);
+    font-size: 18px;
+    border: none;
+    background: none;
+}
+
+.ensinosuperior {
+    width: 486px;
+    height: 310px;
+    margin-left: 1500px;
+    margin-top: 10px; 
+}
+
+.agronomia {
+    position: absolute;
+    top: 675px;
+    left: 1513px;
+    padding: 10px;
+    text-align: center;
+}
+
+.btn-agronomia {
+    color: rgb(66, 66, 66);
+    font-size: 18px;
+    border: none;
+    background: none;
+}
+
+.vet {
+    position: absolute;
+    top: 705px;
+    left: 1513px;
+    padding: 10px;
+    text-align: center;
+}
+
+.btn-vet {
+    color: rgb(66, 66, 66);
+    font-size: 18px;
+    border: none;
+    background: none;
+}
+
+.engalimentos {
+    position: absolute;
+    top: 735px;
+    left: 1513px;
+    padding: 10px;
+    text-align: center;
+}
+
+.btn-engalimentos {
+    color: rgb(66, 66, 66);
+    font-size: 18px;
+    border: none;
+    background: none;
+}
+
+.fisica {
+    position: absolute;
+    top: 765px;
+    left: 1513px;
+    padding: 10px;
+    text-align: center;
+}
+
+.btn-fisica {
+    color: rgb(66, 66, 66);
+    font-size: 18px;
+    border: none;
+    background: none;
+}
+
+.matematica {
+    position: absolute;
+    top: 795px;
+    left: 1513px;
+    padding: 10px;
+    text-align: center;
+}
+
+.btn-matematica {
+    color: rgb(66, 66, 66);
+    font-size: 18px;
+    border: none;
+    background: none;
+}
+
+.posgraduacao {
+    width: 486px;
+    height: 310px;
+    margin-left: 1500px;
+    margin-top: 10px; 
+}
+
+
+.agroecologia {
+    position: absolute;
+    top: 1025px;
+    left: 1513px;
+    padding: 10px;
+    text-align: center;
+}
+
+.btn-agroecologia {
+    color: rgb(66, 66, 66);
+    font-size: 18px;
+    border: none;
+    background: none;
+}
+
+.edmatematica {
+    position: absolute;
+    top: 1055px;
+    left: 1513px;
+    padding: 10px;
+    text-align: center;
+}
+
+.btn-edmatematica {
+    color: rgb(66, 66, 66);
+    font-size: 18px;
+    border: none;
+    background: none;
+}
+
+.ppgpsa {
+    position: absolute;
+    top: 1085px;
+    left: 1513px;
+    padding: 10px;
+    text-align: center;
+}
+
+.btn-ppgpsa {
+    color: rgb(66, 66, 66);
+    font-size: 18px;
+    border: none;
+    background: none;
+}
+
+.h1noticias {
+    margin-top: -1000px;
+    margin-left: 60px;
+    font-size: 45px;
+}
+
+.rudimg {
+    margin-left: 60px;
+    width: 266px;
+    height: 448,5px;
+}
+
+.h2dire {
+    margin-top: -195px;
+    margin-left: 350px;
+}
+
+.pnoticias {
+    margin-top: -400px;
+    margin-left: 350px;
+    font-size: 25px;
+    width: 850px;
+}
+
+.h3avisos {
+    margin-top: 700px;
+    margin-left: 60px;
+    font-size: 45px;
+}
+
+.pavisos {
+    font-size: 25px;
+    width: 500px;
+    margin-left: 60px;
+}
+
+.h4agenda {
+    font-size: 45px;
+    margin-left: 700px;
+    margin-top: -240px;
+}
+
+.pagenda {
+    font-size: 25px;
+    width: 500px;
+    margin-left: 700px;
+    margin-top: 1px;
+}
+
+.rodape {
+    background-color: green;
+    padding: 20px 0; 
+    color: white; 
+    margin-top: 300px;
+    height: 150px;
+}
+
+.conteudo-rodape {
+    display: flex;
+    justify-content: space-between; 
+    max-width: 1200px;
+    margin: 0 auto; 
+}
+
+.informacoes {
+    text-align: center;
+}
+
+.pinformacoes {
+    margin-left: 200px;
+    font-size: 25px;
+    margin-top: 15px;
+}
+
+.direitos-autorais {
+    text-align: center;
+    font-size: 25px;
+    margin-top: 20px;
+}
+
+.container {
+    position: relative;
+}
+
+.linha-de-divisao {
+    position: absolute;
+    left: 0;
+    top: 50%; 
+    width: 1100px;
+    height: 1px; 
+    background-color: #808080; 
+    transform: translateY(-50%); 
+    margin-top: 660px;
+    margin-left: 60px;
+}
